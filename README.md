@@ -61,7 +61,7 @@ We are in the early stages of developing the **Red Team Escape Room VM**, and we
 ## **🤝 How to Get Involved**
 
 1. **Join the Discussion**
-   - Check out the [Issues](https://github.com/yourusername/red-team-escape-room/issues) tab to see where you can contribute.
+   - Check out the [Issues](https://github.com/redteamranger/red-team-escape-room/issues) tab to see where you can contribute.
    - Participate in brainstorming sessions.
 
 2. **Contribute Your Skills**
